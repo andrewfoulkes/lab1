@@ -32,3 +32,14 @@ body {
      position: absolute;
      z-index: -1;
 }
+
+.project {
+     background-color:gray;
+     margin-left: 20px;
+}
+
+.thumbnail {
+     width: 520px;
+     height: 280px;
+     border: 15px inset #434343;
+}
